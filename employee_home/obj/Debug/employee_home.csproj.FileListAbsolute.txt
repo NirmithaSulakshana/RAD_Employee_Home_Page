@@ -1,0 +1,11 @@
+E:\C# projects\employee_home\employee_home\bin\Debug\employee_home.exe.config
+E:\C# projects\employee_home\employee_home\bin\Debug\employee_home.exe
+E:\C# projects\employee_home\employee_home\bin\Debug\employee_home.pdb
+E:\C# projects\employee_home\employee_home\obj\Debug\employee_home.csproj.AssemblyReference.cache
+E:\C# projects\employee_home\employee_home\obj\Debug\employee_home.csproj.SuggestedBindingRedirects.cache
+E:\C# projects\employee_home\employee_home\obj\Debug\employee_home.Properties.Resources.resources
+E:\C# projects\employee_home\employee_home\obj\Debug\employee_home.csproj.GenerateResource.cache
+E:\C# projects\employee_home\employee_home\obj\Debug\employee_home.csproj.CoreCompileInputs.cache
+E:\C# projects\employee_home\employee_home\obj\Debug\employee_home.exe
+E:\C# projects\employee_home\employee_home\obj\Debug\employee_home.pdb
+E:\C# projects\employee_home\employee_home\obj\Debug\employee_home.Form1.resources
